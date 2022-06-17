@@ -5,3 +5,20 @@ body{
     font-style: italic;
 }
 
+h1{
+    background-color: white;
+    border-radius: 10px;
+    max-width:400px;
+    text-align: center;
+    margin: auto;
+    padding:15px;   
+}
+
+div{
+    background-color: white;
+    border-radius: 10px;
+    max-width: fit-content;
+    padding: 15px;
+    margin: auto;
+    margin-top: 30px;
+}
